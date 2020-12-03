@@ -1,0 +1,60 @@
+{
+	"firstName": "Aghdas",
+	"lastName": "Bakhshi",
+	"preferredName": "Negar",
+	"brithDate": "28/02/1990",
+	"brithPlace": "Mashhad",
+	"gender": "Female",
+	"occupation": "Software Engineer",
+	"jobInfo": [
+		{
+			"PreviousJobs": [
+				{
+					"CompanyName": "Harmony",
+					"CEO": "Steve Powell",
+					"Address": [
+						{
+							"postCode": "SW194BD",
+							"city": "Wimbledon"
+						}
+					]
+				},
+				{
+					"CompanyName": "PlayWaze",
+					"CEO": "Rupert Jenner",
+					"Address": [
+						{
+							"postCode": "GU216ET",
+							"city": "Woking"
+						}
+					]
+				},
+				{
+					"CompanyName": "Fixzone",
+					"CEO": "Angela Mills",
+					"Address": [
+						{
+							"postCode": "KT67EH",
+							"city": "Surbiton"
+						}
+					]
+				}
+			]
+		}
+	],
+	"email": "n.bakhshi@live.com",
+	"interests": [
+		{
+			"category": "music",
+			"type": "pop"
+		},
+		{
+			"category": "sports",
+			"type": "outdoor"
+		},
+		{
+			"category": "game",
+			"type": "action-adventure"
+		}
+	],
+}
